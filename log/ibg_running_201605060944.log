@@ -1,0 +1,41 @@
+09:44:29:387 JTS-Main: dayInit: new values: dayOfTheWeek: 6 (Fri), YYYYMMofToday: 201605, YYYYMMDDofToday: 20160506
+09:44:29:520 JTS-Main: LOCALE: needToUpdate  dest=/home/zhe/Jts/locales.jar  sourceMod=2016-02-23 07:38:37  destMod=2016-02-23 07:38:37  sourceSize=87394  destSize=87394  conditions=[NEWER_REMOTE, LOCAL_IN_FUTURE, SIZE_DIFFERS]  download=false
+09:44:29:727 JTS-Main: Build 952.2j, Mar 21, 2016 3:48:51 PM
+09:44:32:335 JTS-AuthDispatcherS1-12:  NS_AUTH_START version=19 pwd=1 soft=0 token=0 tokenSubtype=0 initialTokenType=PWD authenticationType=MARKET_DATA_CONNECTION identityHashcode=1941977422
+09:44:32:390 JTS-AuthDispatcherS1-12: setting session token in AuthenticationHandler: authenticationType=MARKET_DATA_CONNECTION hashCode=1941977422 new=1161866718045247916768797047015370549058077069586 old=null ctciOld=null
+09:44:32:999 JTS-PostAuthenticateS1-17: pre-logon message successfully sent
+09:44:40:034 AWT-EventQueue-0: getFileFromUrl: dest=/home/zhe/Jts/darykqez/language.jar empty sourceSize=3466892
+09:44:40:263 AWT-EventQueue-0: S3: CCP does not support S3
+09:44:40:951 AWT-EventQueue-0: Warn! Demo SSO is not supported
+09:44:41:197 AWT-EventQueue-0: Market rule file /home/zhe/Jts/darykqez/Fri.rul does not exist or is removed
+09:44:41:206 AWT-EventQueue-0: Settings : loadFromXMLFile : Could not find settings file /home/zhe/Jts/darykqez/ibg.xml
+09:44:43:148 JTS-ibdemoDispatcherS2-35:  NS_AUTH_START version=7 pwd=0 soft=2 token=0 tokenSubtype=0 initialTokenType=SOFT authenticationType=FARM_AUTH identityHashcode=2123476607
+09:44:43:350 JTS-CCPDispatcherS1-27: No defaults for: CMDTY
+09:44:43:369 JTS-CCPDispatcherS1-27: No defaults for: CMDTY
+09:44:43:376 JTS-SocketListener-38: API server listening on port 4001
+09:44:43:826 JTS-demohmdsDispatcherS3-45:  NS_AUTH_START version=7 pwd=0 soft=2 token=0 tokenSubtype=0 initialTokenType=SOFT authenticationType=FARM_AUTH identityHashcode=1589434809
+09:44:44:063 JTS-ForwardRouting-MARKET_DATA-54: handleCompatibleRouting MARKET_DATA compmode=true ready=false farm=ibdemo
+09:44:44:063 JTS-ForwardRouting-HISTORICAL_DATA-53: handleCompatibleRouting HISTORICAL_DATA compmode=true ready=false farm=demohmds
+09:44:57:233 JTS-SocketListener-38: State: STOP, IsAPI: NO
+09:44:57:461 JTS-EServerSocket-61: [0:63:76:1:0:0:0:ERR] -'td' : cause - The API interface is currently in Read-Only mode.
+09:44:57:461 JTS-EServerSocket-61: Anticipated error
+09:45:58:679 JTS-SocketListener-38: State: STOP, IsAPI: NO
+09:45:58:696 JTS-EServerSocket-67: [0:63:76:1:0:0:0:ERR] Unable connect as the client id is already in use. Retry with a unique client id.
+09:45:58:696 JTS-EServerSocket-67: Anticipated error
+09:45:59:200 JTS-EServerSocketNotifier-68: Terminating async queue thread
+09:45:59:205 JTS-EServerSocket-67: [0:63:76:1:0:0:0:ERR] Socket connection for client{0} has closed. 
+09:46:21:813 JTS-SocketListener-38: State: STOP, IsAPI: NO
+09:46:21:819 JTS-EServerSocket-71: [0:63:76:1:0:0:0:ERR] Unable connect as the client id is already in use. Retry with a unique client id.
+09:46:21:820 JTS-EServerSocket-71: Anticipated error
+09:46:22:321 JTS-EServerSocketNotifier-72: Terminating async queue thread
+09:46:22:323 JTS-EServerSocket-71: [0:63:76:1:0:0:0:ERR] Socket connection for client{0} has closed. 
+09:46:49:937 JTS-EServerSocket-61: [0:63:76:1:0:0:0:ERR] Socket connection for client{0} has closed. 
+09:46:49:940 JTS-EServerSocketNotifier-62: Terminating async queue thread
+09:47:11:714 JTS-SocketListener-38: State: STOP, IsAPI: NO
+09:47:11:961 JTS-CCPDispatcherS1-27: Order Canceled - reason:
+09:47:23:393 JTS-EServerSocket-75: [0:63:76:1:0:0:0:ERR] Socket connection for client{0} has closed. 
+09:47:23:397 JTS-EServerSocketNotifier-76: Terminating async queue thread
+09:48:05:443 JTS-Async-22: Terminating async queue thread
+09:48:05:443 JTS-AsyncNonLocked-23: Terminating async queue thread
+09:48:06:053 JTS-ExecNotifier-28: Terminating async queue thread
+09:48:06:060 JTS-Order-Audit-10: Terminating async queue thread
